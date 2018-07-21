@@ -1,0 +1,2 @@
+G:\Users\Jeff\Source\Repos\connectedin\connectedin\obj\Debug\connectedin.pyproj.CoreCompileInputs.cache
+C:\Users\Jefferson\source\repos\connectedin\connectedin\obj\Debug\connectedin.pyproj.CoreCompileInputs.cache

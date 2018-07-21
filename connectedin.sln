@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "connectedin", "connectedin\connectedin.pyproj", "{2FB543EF-796B-4088-9B8E-E1DA54D63D3B}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "TestDjango", "..\TestDjango\TestDjango.pyproj", "{A19029DF-619F-4AC6-B881-5159E91DAB22}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2FB543EF-796B-4088-9B8E-E1DA54D63D3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FB543EF-796B-4088-9B8E-E1DA54D63D3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FB543EF-796B-4088-9B8E-E1DA54D63D3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FB543EF-796B-4088-9B8E-E1DA54D63D3B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A19029DF-619F-4AC6-B881-5159E91DAB22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A19029DF-619F-4AC6-B881-5159E91DAB22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A19029DF-619F-4AC6-B881-5159E91DAB22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A19029DF-619F-4AC6-B881-5159E91DAB22}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {97880A64-CF66-427D-A80F-8FB2B8F19983}
+	EndGlobalSection
+EndGlobal
